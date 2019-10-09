@@ -1,0 +1,5 @@
+C:\Development\PCubedSubversion\ExamPAK\LPro.Helpers\bin\x64\Release\ExamPAK.Helpers.dll
+C:\Development\PCubedSubversion\ExamPAK\LPro.Helpers\bin\x64\Release\ExamPAK.Helpers.pdb
+C:\Development\PCubedSubversion\ExamPAK\LPro.Helpers\obj\x64\Release\ExamPAK.Helpers.csproj.CoreCompileInputs.cache
+C:\Development\PCubedSubversion\ExamPAK\LPro.Helpers\obj\x64\Release\ExamPAK.Helpers.dll
+C:\Development\PCubedSubversion\ExamPAK\LPro.Helpers\obj\x64\Release\ExamPAK.Helpers.pdb

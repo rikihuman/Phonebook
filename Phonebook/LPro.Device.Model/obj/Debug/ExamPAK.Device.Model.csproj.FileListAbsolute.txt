@@ -1,0 +1,5 @@
+C:\Development\PCubedSubversion\ExamPAK\LPro.Device.Model\bin\Debug\ExamPAK.Device.Model.dll
+C:\Development\PCubedSubversion\ExamPAK\LPro.Device.Model\bin\Debug\ExamPAK.Device.Model.pdb
+C:\Development\PCubedSubversion\ExamPAK\LPro.Device.Model\obj\Debug\ExamPAK.Device.Model.csproj.CoreCompileInputs.cache
+C:\Development\PCubedSubversion\ExamPAK\LPro.Device.Model\obj\Debug\ExamPAK.Device.Model.dll
+C:\Development\PCubedSubversion\ExamPAK\LPro.Device.Model\obj\Debug\ExamPAK.Device.Model.pdb

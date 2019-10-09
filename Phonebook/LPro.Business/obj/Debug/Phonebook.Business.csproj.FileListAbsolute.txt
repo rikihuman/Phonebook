@@ -1,0 +1,12 @@
+C:\Private\Phonebook\Phonebook\LPro.Business\bin\Debug\ExamPAK.Business.dll
+C:\Private\Phonebook\Phonebook\LPro.Business\bin\Debug\ExamPAK.Business.pdb
+C:\Private\Phonebook\Phonebook\LPro.Business\bin\Debug\ExamPAK.Device.Model.dll
+C:\Private\Phonebook\Phonebook\LPro.Business\bin\Debug\Phonebook.Data.dll
+C:\Private\Phonebook\Phonebook\LPro.Business\bin\Debug\ExamPAK.Helpers.dll
+C:\Private\Phonebook\Phonebook\LPro.Business\bin\Debug\Phonebook.Data.pdb
+C:\Private\Phonebook\Phonebook\LPro.Business\bin\Debug\ExamPAK.Device.Model.pdb
+C:\Private\Phonebook\Phonebook\LPro.Business\bin\Debug\ExamPAK.Helpers.pdb
+C:\Private\Phonebook\Phonebook\LPro.Business\obj\Debug\Phonebook.Business.csprojResolveAssemblyReference.cache
+C:\Private\Phonebook\Phonebook\LPro.Business\obj\Debug\Phonebook.Business.csproj.CoreCompileInputs.cache
+C:\Private\Phonebook\Phonebook\LPro.Business\obj\Debug\ExamPAK.Business.dll
+C:\Private\Phonebook\Phonebook\LPro.Business\obj\Debug\ExamPAK.Business.pdb

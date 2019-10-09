@@ -1,0 +1,10 @@
+C:\Development\PCubedSubversion\ExamPAK\LPro.Data\bin\x64\Release\ExamPAK.Data.dll
+C:\Development\PCubedSubversion\ExamPAK\LPro.Data\bin\x64\Release\ExamPAK.Data.pdb
+C:\Development\PCubedSubversion\ExamPAK\LPro.Data\bin\x64\Release\ExamPAK.Device.Model.dll
+C:\Development\PCubedSubversion\ExamPAK\LPro.Data\bin\x64\Release\ExamPAK.Helpers.dll
+C:\Development\PCubedSubversion\ExamPAK\LPro.Data\bin\x64\Release\ExamPAK.Device.Model.pdb
+C:\Development\PCubedSubversion\ExamPAK\LPro.Data\bin\x64\Release\ExamPAK.Helpers.pdb
+C:\Development\PCubedSubversion\ExamPAK\LPro.Data\obj\x64\Release\ExamPAK.Data.csprojResolveAssemblyReference.cache
+C:\Development\PCubedSubversion\ExamPAK\LPro.Data\obj\x64\Release\ExamPAK.Data.csproj.CoreCompileInputs.cache
+C:\Development\PCubedSubversion\ExamPAK\LPro.Data\obj\x64\Release\ExamPAK.Data.dll
+C:\Development\PCubedSubversion\ExamPAK\LPro.Data\obj\x64\Release\ExamPAK.Data.pdb

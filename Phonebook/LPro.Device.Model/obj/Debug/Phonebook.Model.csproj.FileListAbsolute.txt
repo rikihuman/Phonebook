@@ -1,0 +1,6 @@
+C:\Private\Phonebook\Phonebook\LPro.Device.Model\bin\Debug\ExamPAK.Device.Model.dll
+C:\Private\Phonebook\Phonebook\LPro.Device.Model\bin\Debug\ExamPAK.Device.Model.pdb
+C:\Private\Phonebook\Phonebook\LPro.Device.Model\obj\Debug\Phonebook.Model.csprojResolveAssemblyReference.cache
+C:\Private\Phonebook\Phonebook\LPro.Device.Model\obj\Debug\Phonebook.Model.csproj.CoreCompileInputs.cache
+C:\Private\Phonebook\Phonebook\LPro.Device.Model\obj\Debug\ExamPAK.Device.Model.dll
+C:\Private\Phonebook\Phonebook\LPro.Device.Model\obj\Debug\ExamPAK.Device.Model.pdb

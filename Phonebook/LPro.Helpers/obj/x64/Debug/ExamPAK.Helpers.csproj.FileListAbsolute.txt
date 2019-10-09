@@ -1,0 +1,6 @@
+C:\Development\PCubedSubversion\ExamPAK\LPro.Helpers\bin\x64\Debug\ExamPAK.Helpers.dll
+C:\Development\PCubedSubversion\ExamPAK\LPro.Helpers\bin\x64\Debug\ExamPAK.Helpers.pdb
+C:\Development\PCubedSubversion\ExamPAK\LPro.Helpers\obj\x64\Debug\ExamPAK.Helpers.csprojResolveAssemblyReference.cache
+C:\Development\PCubedSubversion\ExamPAK\LPro.Helpers\obj\x64\Debug\ExamPAK.Helpers.csproj.CoreCompileInputs.cache
+C:\Development\PCubedSubversion\ExamPAK\LPro.Helpers\obj\x64\Debug\ExamPAK.Helpers.dll
+C:\Development\PCubedSubversion\ExamPAK\LPro.Helpers\obj\x64\Debug\ExamPAK.Helpers.pdb

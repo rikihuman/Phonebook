@@ -1,0 +1,6 @@
+C:\Private\Phonebook\Phonebook\LPro.Helpers\bin\Debug\ExamPAK.Helpers.dll
+C:\Private\Phonebook\Phonebook\LPro.Helpers\bin\Debug\ExamPAK.Helpers.pdb
+C:\Private\Phonebook\Phonebook\LPro.Helpers\obj\Debug\Phonebook.Helpers.csprojResolveAssemblyReference.cache
+C:\Private\Phonebook\Phonebook\LPro.Helpers\obj\Debug\Phonebook.Helpers.csproj.CoreCompileInputs.cache
+C:\Private\Phonebook\Phonebook\LPro.Helpers\obj\Debug\ExamPAK.Helpers.dll
+C:\Private\Phonebook\Phonebook\LPro.Helpers\obj\Debug\ExamPAK.Helpers.pdb

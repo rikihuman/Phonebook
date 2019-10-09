@@ -1,0 +1,6 @@
+C:\Development\PCubedSubversion\ExamPAK\LPro.Device.Model\bin\x64\Release\ExamPAK.Device.Model.dll
+C:\Development\PCubedSubversion\ExamPAK\LPro.Device.Model\bin\x64\Release\ExamPAK.Device.Model.pdb
+C:\Development\PCubedSubversion\ExamPAK\LPro.Device.Model\obj\x64\Release\ExamPAK.Device.Model.csproj.CoreCompileInputs.cache
+C:\Development\PCubedSubversion\ExamPAK\LPro.Device.Model\obj\x64\Release\ExamPAK.Device.Model.dll
+C:\Development\PCubedSubversion\ExamPAK\LPro.Device.Model\obj\x64\Release\ExamPAK.Device.Model.pdb
+C:\Development\PCubedSubversion\ExamPAK\LPro.Device.Model\obj\x64\Release\ExamPAK.Device.Model.csprojResolveAssemblyReference.cache

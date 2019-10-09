@@ -1,0 +1,5 @@
+C:\Private\Phonebook\Phonebook\LPro.Device.Model\bin\Release\ExamPAK.Device.Model.dll
+C:\Private\Phonebook\Phonebook\LPro.Device.Model\bin\Release\ExamPAK.Device.Model.pdb
+C:\Private\Phonebook\Phonebook\LPro.Device.Model\obj\Release\Phonebook.Model.csproj.CoreCompileInputs.cache
+C:\Private\Phonebook\Phonebook\LPro.Device.Model\obj\Release\ExamPAK.Device.Model.dll
+C:\Private\Phonebook\Phonebook\LPro.Device.Model\obj\Release\ExamPAK.Device.Model.pdb

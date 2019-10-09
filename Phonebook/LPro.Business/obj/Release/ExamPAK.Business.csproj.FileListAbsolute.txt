@@ -1,0 +1,12 @@
+C:\Development\PCubedSubversion\ExamPAK\LPro.Business\bin\Release\ExamPAK.Business.dll
+C:\Development\PCubedSubversion\ExamPAK\LPro.Business\bin\Release\ExamPAK.Business.pdb
+C:\Development\PCubedSubversion\ExamPAK\LPro.Business\bin\Release\ExamPAK.Data.dll
+C:\Development\PCubedSubversion\ExamPAK\LPro.Business\bin\Release\ExamPAK.Device.Model.dll
+C:\Development\PCubedSubversion\ExamPAK\LPro.Business\bin\Release\ExamPAK.Helpers.dll
+C:\Development\PCubedSubversion\ExamPAK\LPro.Business\bin\Release\ExamPAK.Data.pdb
+C:\Development\PCubedSubversion\ExamPAK\LPro.Business\bin\Release\ExamPAK.Device.Model.pdb
+C:\Development\PCubedSubversion\ExamPAK\LPro.Business\bin\Release\ExamPAK.Helpers.pdb
+C:\Development\PCubedSubversion\ExamPAK\LPro.Business\obj\Release\ExamPAK.Business.csprojResolveAssemblyReference.cache
+C:\Development\PCubedSubversion\ExamPAK\LPro.Business\obj\Release\ExamPAK.Business.dll
+C:\Development\PCubedSubversion\ExamPAK\LPro.Business\obj\Release\ExamPAK.Business.pdb
+C:\Development\PCubedSubversion\ExamPAK\LPro.Business\obj\Release\ExamPAK.Business.csproj.CoreCompileInputs.cache

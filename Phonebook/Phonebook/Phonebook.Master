@@ -1,0 +1,99 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Phonebook.master.cs" Inherits="Phonebook.Phonebook" %>
+
+<!DOCTYPE html>
+
+<html lang="en">
+<head runat="server">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title><%: Page.Title %> - Phonebook</title>
+
+    <asp:PlaceHolder runat="server">
+        <%: Scripts.Render("~/bundles/modernizr") %>
+    </asp:PlaceHolder>
+
+    <webopt:bundlereference runat="server" path="~/Content/css" />
+    <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+      <!-- Bootstrap core CSS-->
+      <link href="~/Content/bootstrap.css" rel="stylesheet" />
+      <!-- Custom fonts for this template-->
+      <link href="~/Theme/vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+      <!-- Page level plugin CSS-->
+      <link href="~/Theme/vendor/datatables/dataTables.bootstrap4.css" rel="stylesheet" />
+      <!-- Custom styles for this template-->
+      <%--<link href="Theme/css/sb-admin.css" rel="stylesheet">--%>
+</head>
+<body >
+    <form runat="server">
+        <asp:ScriptManager runat="server">
+            <Scripts>
+                <%--To learn more about bundling scripts in ScriptManager see https://go.microsoft.com/fwlink/?LinkID=301884 --%>
+                <%--Framework Scripts--%>
+                <asp:ScriptReference Name="MsAjaxBundle" />
+                <asp:ScriptReference Name="jquery" />
+                <asp:ScriptReference Name="bootstrap" />
+                <asp:ScriptReference Name="respond" />
+                <asp:ScriptReference Name="WebForms.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebForms.js" />
+                <asp:ScriptReference Name="WebUIValidation.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebUIValidation.js" />
+                <asp:ScriptReference Name="MenuStandards.js" Assembly="System.Web" Path="~/Scripts/WebForms/MenuStandards.js" />
+                <asp:ScriptReference Name="GridView.js" Assembly="System.Web" Path="~/Scripts/WebForms/GridView.js" />
+                <asp:ScriptReference Name="DetailsView.js" Assembly="System.Web" Path="~/Scripts/WebForms/DetailsView.js" />
+                <asp:ScriptReference Name="TreeView.js" Assembly="System.Web" Path="~/Scripts/WebForms/TreeView.js" />
+                <asp:ScriptReference Name="WebParts.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebParts.js" />
+                <asp:ScriptReference Name="Focus.js" Assembly="System.Web" Path="~/Scripts/WebForms/Focus.js" />
+                <asp:ScriptReference Name="WebFormsBundle" />
+
+                  <%--<asp:ScriptReference Path="~/Theme/vendor/jquery/jquery.min.js"/>
+                    <asp:ScriptReference Path="~/Theme/vendor/bootstrap/js/bootstrap.bundle.min.js"/>
+                   
+                    <asp:ScriptReference Path="~/Theme/vendor/jquery-easing/jquery.easing.min.js"/>
+                    
+                    <asp:ScriptReference Path="~/Theme/vendor/chart.js/Chart.min.js"/>
+                    <asp:ScriptReference Path="~/Theme/vendor/datatables/jquery.dataTables.js"/>
+                    <asp:ScriptReference Path="~/Theme/vendor/datatables/dataTables.bootstrap4.js"/>
+                  
+                    <asp:ScriptReference Path="js/sb-admin.min.js"/>
+                    <asp:ScriptReference Path="js/sb-admin-datatables.min.js"/>
+                    <asp:ScriptReference Path="js/sb-admin-charts.min.js"/>--%>
+               <%-- <asp:ScriptReference Name="sb-admin-charts.js" Assembly="System.Web" Path="~/Scripts/sb-admin-charts.js" />
+                <asp:ScriptReference Name="sb-admin-charts.min.js" Assembly="System.Web" Path="~/Scripts/sb-admin-charts.min.js" />
+                <asp:ScriptReference Name="sb-admin-datatables.js" Assembly="System.Web" Path="~/Scripts/sb-admin-datatables.js" />
+                <asp:ScriptReference Name="sb-admin-datatables.min.js" Assembly="System.Web" Path="~/Scripts/sb-admin-datatables.min.js" />
+                <asp:ScriptReference Name="sb-admin.js" Assembly="System.Web" Path="~/Scripts/sb-admin.js" />
+                <asp:ScriptReference Name="sb-admin.min.js" Assembly="System.Web" Path="~/Scripts/sb-admin.min.js" />
+                --%>
+                <%--Site Scripts--%>
+            </Scripts>
+        </asp:ScriptManager>
+
+        <div class="navbar navbar-inverse navbar-fixed-top">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" runat="server" href="~/">Riki Human - Phonebook</a>
+                </div>
+                <div class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav">
+                        <li><a runat="server" href="~/">Phonebook</a></li>
+                        <li><a runat="server" href="~/About">About</a></li>
+                        <li><a runat="server" href="~/Contact">Contact</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="container body-content">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server">
+            </asp:ContentPlaceHolder>
+            <hr />
+            <footer>
+                <p>&copy; <%: DateTime.Now.Year %> - Riki Human</p>
+            </footer>
+        </div>
+
+    </form>
+</body>
+</html>
